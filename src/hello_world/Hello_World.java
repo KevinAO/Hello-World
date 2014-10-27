@@ -18,6 +18,7 @@ public class Hello_World {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hei kevin");
+        System.out.println("Hei");
     }
     
 }
